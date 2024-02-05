@@ -1,7 +1,7 @@
 export const Users = [
     {
       id:1,
-      profilePicture: "assets/person/1.jpeg",
+      profilePicture: "https://i.pinimg.com/originals/8d/53/77/8d537719001d3de65520c957cebe9ba6.jpg",
       username: "Safak Kocaoglu",
     },
     {
